@@ -23,6 +23,7 @@ public class WeCareServiceImpl implements WeCareService{
 	}
 	public List<Coach> GettheCoachProfileDetails(){
 		List<Coach> coach = (List<Coach>) coachRepository.findAll();
+		System.out.print("ok");
 		return coach;
 	}
 }
