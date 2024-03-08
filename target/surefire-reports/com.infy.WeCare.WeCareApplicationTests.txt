@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.infy.WeCare.WeCareApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.555 s -- in com.infy.WeCare.WeCareApplicationTests
